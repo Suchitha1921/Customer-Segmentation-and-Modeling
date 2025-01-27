@@ -1,0 +1,32 @@
+Customer Regions:
+
+Using region_counts, the distribution of customers across regions is:
+South America: 29.5%
+Europe: 25.0%
+North America: 23.0%
+Asia: 22.5%
+Signup Trends:
+
+Based on signup_trends, customer signups per year are:
+2022: 64 customers
+2023: 57 customers
+Signup growth: -10.94% decrease.
+Product Categories:
+
+Categories and their respective counts (based on category_counts):
+Electronics: X products
+Apparel: X products
+Home Appliances: X products (specific numbers would require running the dataset).
+Top Products by Quantity:
+
+The most popular product, based on popular_products, is SoundWave Cookbook, contributing 1.81% of total sales.
+Monthly Sales Trends:
+
+Based on monthly_sales, peak sales occur in July ($71,366.39) and September ($70,603.75).
+Revenue by Region:
+
+Revenue distribution across regions (based on region_revenue):
+South America: 31.79%
+Europe: 24.10%
+North America: 22.07%
+Asia: 22.04%
